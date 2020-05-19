@@ -12,7 +12,7 @@ class CalculatorViewController: UIViewController {
 
     var multiplier: Float = 1.0
     var splitAmount: Float = 0.0
-    var splitValue: Float = 0.0
+    var splitValue: Float = 2.0
     @IBOutlet weak var billTextField: UITextField!
     
     @IBOutlet weak var tenPctButton: UIButton!
